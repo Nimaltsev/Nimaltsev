@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me: tg: @nimaltsev or nimaltsev1@gmail.com 
 
-Сейчас в моем гитхабе 2 проекта по анализу данных (каждый проект - в отдельном репозитории):
+Сейчас в моем гитхабе 3 проекта по анализу данных (каждый проект - в отдельном репозитории):
 - анализ данных продаж интернет-магазина
 - анализ данных игры для мобильных телефонов
-
+- Airflow DAG which regularly checks most popular games, platforms, publishers, count of games etc
 
 <!---
 Nimaltsev/Nimaltsev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
