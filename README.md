@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nimaltsev (Nikolay Maltsev)
 - 👀 I’m interested in data analytics, 
 - 🌱 I’m currently learning statistics, python, SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me: tg: @nimaltsev or nimaltsev1@gmail.com 
 
 <!---
