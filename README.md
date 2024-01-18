@@ -18,13 +18,13 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://github.com/Nimaltsev/Nimaltsev/assets/131170450/3c59fb07-2342-44b4-b73d-838d71330a18)
+![SQL](https://github.com/Nimaltsev/Nimaltsev/assets/131170450/bfe3211c-d399-44d2-ae97-66ee594cd1d3)
 
 
 ---
 📫 My contacts:
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @nimaltsev  
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): or nimaltsev1@gmail.com 
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): nimaltsev1@gmail.com 
 
 Сейчас в моем гитхабе 5 проектов по анализу данных (каждый проект - в отдельном репозитории):
 - анализ данных продаж интернет-магазина (https://github.com/Nimaltsev/E-commerce_project)
