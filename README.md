@@ -1,4 +1,4 @@
-![image](https://github.com/Nimaltsev/Nimaltsev/assets/131170450/c36d9c04-bfda-4171-aac6-701ab2961c45)👋 I am a Data Analyst from Russia, Saint-Petersburg
+👋 I am a Data Analyst from Russia, Saint-Petersburg
 - I love learning new things, finding new insights in data 💡 and visualise them 🔮  
 - Data analytics for me is the best way to discover the world 🌍
 - Besides DA, my hobby is bicycle and hiking 🏕️
@@ -12,12 +12,12 @@
 🛠️ Languages and tools: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/61c85ed8-2650-497d-8f5b-dde2e236e481" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/61c85ed8-2650-497d-8f5b-dde2e236e481" title="SQL" alt="SQL" width="55" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/2d65b8e9-cdab-4773-bb89-46aae752b725" title="Seaborn" alt="Seaborn width="40" height="40"/>&nbsp;
   <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/8d267702-f50d-4a6c-845e-153e784cbe35" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/89af770e-ac57-4dfd-b610-c8e907a0d753" title="SciPy" alt="SciPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/89af770e-ac57-4dfd-b610-c8e907a0d753" title="SciPy" alt="SciPy" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
