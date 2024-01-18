@@ -10,7 +10,8 @@
 
 📚 My education in IT:
 [Karpov.courses: data analyst](https://github.com/Nimaltsev/Nimaltsev/files/13975295/Data.analyst.karpov.pdf)
-
+[Sololearn: Data Programming](https://github.com/Nimaltsev/Nimaltsev/assets/131170450/42488218-0a52-4eac-b6b0-4f7025827852)
+[Sololearn: Start Python](https://blob.sololearn.com/certificates/ab8e8cdf-9404-4372-9f09-bb73060d3ef9.pdf)
 
 - 🌱 I’m currently learning statistics, python, SQL
 - 💞️ I’m looking to collaborate on data analysis projects
