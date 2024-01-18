@@ -21,8 +21,8 @@
 
 ---
 📫 My contacts:
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @nimaltsev  
-- E-mail: or nimaltsev1@gmail.com 
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @nimaltsev  
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white): or nimaltsev1@gmail.com 
 
 Сейчас в моем гитхабе 5 проектов по анализу данных (каждый проект - в отдельном репозитории):
 - анализ данных продаж интернет-магазина (https://github.com/Nimaltsev/E-commerce_project)
