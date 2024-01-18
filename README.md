@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/2d65b8e9-cdab-4773-bb89-46aae752b725" title="Seaborn" alt="Seaborn width="40" height="40"/>&nbsp;
   <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/8d267702-f50d-4a6c-845e-153e784cbe35" title="Plotly" alt="Plotly" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/89af770e-ac57-4dfd-b610-c8e907a0d753" title="SciPy" alt="SciPy" width="50" height="40"/>&nbsp;
+  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/a9dd247d-23a3-4bfa-865c-ca77dbd17023" title="SciPy" alt="SciPy" width="50" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"  title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
