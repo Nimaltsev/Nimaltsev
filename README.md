@@ -9,7 +9,7 @@
 - [Sololearn: Start Python](https://blob.sololearn.com/certificates/ab8e8cdf-9404-4372-9f09-bb73060d3ef9.pdf)
 
 --- 
-🛠️ Languages and tools
+🛠️ Languages and tools: 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -19,7 +19,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://github.com/Nimaltsev/Nimaltsev/assets/131170450/bfe3211c-d399-44d2-ae97-66ee594cd1d3)
-
+![te](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg)
 
 ---
 📫 My contacts:
