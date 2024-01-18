@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Nimaltsev (Nikolay Maltsev)
-- 👀 I’m interested in data analytics, A/B tests, statistics, python and data visualisation
+      1. “О себе” – по наполнению тут есть несколько вариантов содержания:
+
+         2. Это может быть что-то ценностное: как ты смотришь на данные, что тебя мотивирует в DA + интересный факт/хобби
+
+
+👋 I am a Data Analyst from Russia, Saint-Petersburg
+- I love learning new things, finding new insights in data 💡 and visualise them 🔮  
+- Data analytics for me is the best way to discover the world 🌍
+- Besides DA, my hobby is bicycle and hiking 🏕️
+
+📚 My education in IT:
+[Karpov.courses: data analyst](https://github.com/Nimaltsev/Nimaltsev/files/13975295/Data.analyst.karpov.pdf)
+
+
 - 🌱 I’m currently learning statistics, python, SQL
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me: tg: @nimaltsev or nimaltsev1@gmail.com 
+- 📫 Ьн : tg: @nimaltsev or nimaltsev1@gmail.com 
 
-Сейчас в моем гитхабе 3 проекта по анализу данных (каждый проект - в отдельном репозитории):
+Сейчас в моем гитхабе 5 проектов по анализу данных (каждый проект - в отдельном репозитории):
 - анализ данных продаж интернет-магазина (https://github.com/Nimaltsev/E-commerce_project)
 - анализ данных игры для мобильных телефонов (https://github.com/Nimaltsev/mobile_games_data_analysis_project)
 - анализ данных АБ-теста приложения по доставке (https://github.com/Nimaltsev/delivery_app_AB_test)
