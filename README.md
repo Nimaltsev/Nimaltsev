@@ -12,7 +12,7 @@
 🛠️ Languages and tools: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/61c85ed8-2650-497d-8f5b-dde2e236e481" title="SQL" alt="SQL" width="55" height="40"/>&nbsp;
+  <img src="https://github.com/Nimaltsev/Nimaltsev/assets/131170450/61c85ed8-2650-497d-8f5b-dde2e236e481" title="SQL" alt="SQL" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/32903323/43256817-e40da78a-90c5-11e8-9c84-9471549a1259.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
